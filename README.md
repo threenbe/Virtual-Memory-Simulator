@@ -1,5 +1,5 @@
 # Virtual-Memory-Simulator
-An extension of the LC-3b simulator that handles virtual memory in addition to interrupts/exceptions. The simulator is thus augmented to support virtual to physical address translation. 
+An extension of the [LC-3b simulator](https://github.com/threenbe/Interrupts-and-Exceptions-Simulator) that handles virtual memory in addition to interrupts/exceptions. The simulator is thus augmented to support virtual to physical address translation. 
 
 It also handles a new exception, the page fault exception.
 
